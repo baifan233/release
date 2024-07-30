@@ -1,0 +1,17 @@
+b = LoadTexture("resources\dot.png");
+b2 = LoadTexture("resources\32x32_Circle_8.png");
+air = LoadTexture("resources\air.png");
+
+blade=LoadTexture("resources\blade.png");
+
+gold=LoadTexture("resources\gold.png");
+
+house=LoadTextureDir("resources\house");
+plant=LoadTextureDir("resources\plants");
+plat=LoadTextureDir("resources\platform");
+char=LoadTextureDir("resources\char");
+effect=LoadTextureDir("resources\effect");
+bg=LoadTextureDir("resources\bg");
+item=LoadTextureDir("resources\item");
+ico=LoadTextureDir("resources\ico");
+lgameres=LoadTextureDir("resources\lgameres");
